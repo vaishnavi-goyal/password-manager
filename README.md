@@ -21,5 +21,5 @@ A simple Password Manager application built using Python and Tkinter.
 python aap.py
 
 # Output
-![Output](output1.jpeg)
-![output](output2.jpeg)
+![Output](output1.png)
+
